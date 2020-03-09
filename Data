@@ -1,0 +1,92 @@
+{
+  "Body": {
+    "operation": "Fund",
+    "transactionId": "888",
+    "status": "1",
+    "Policy": {
+      "policyNO": "515-8018852",
+      "hasAccountDetailsIn": [
+        {
+          "hasInvestmentFundDetailsIn": [
+            {
+              "totalUnits": "     21502.7631",
+              "fundAllocation": " 100.00",
+              "totalFundAmount": "      19146423.66",
+              "investmentFundCd": "DMRP   ",
+              "unitPrice": "   890.4169",
+              "navDt": "20200305"
+            }
+          ]
+        },
+        {
+          "hasInvestmentFundDetailsIn": [
+            {
+              "totalUnits": "          .0000",
+              "fundAllocation": "    .00",
+              "totalFundAmount": "      19146423.66",
+              "investmentFundCd": "       ",
+              "unitPrice": "      .0000",
+              "navDt": "20200305"
+            }
+          ]
+        },
+        {
+          "hasInvestmentFundDetailsIn": [
+            {
+              "totalUnits": "          .0000",
+              "fundAllocation": "    .00",
+              "totalFundAmount": "      19146423.66",
+              "investmentFundCd": "       ",
+              "unitPrice": "      .0000",
+              "navDt": "20200305"
+            }
+          ]
+        },
+        {
+          "hasInvestmentFundDetailsIn": [
+            {
+              "totalUnits": "          .0000",
+              "fundAllocation": "    .00",
+              "totalFundAmount": "      19146423.66",
+              "investmentFundCd": "       ",
+              "unitPrice": "      .0000",
+              "navDt": "20200305"
+            }
+          ]
+        },
+        {
+          "hasInvestmentFundDetailsIn": [
+            {
+              "totalUnits": "          .0000",
+              "fundAllocation": "    .00",
+              "totalFundAmount": "      19146423.66",
+              "investmentFundCd": "       ",
+              "unitPrice": "      .0000",
+              "navDt": "20200305"
+            }
+          ]
+        },
+        {
+          "hasInvestmentFundDetailsIn": [
+            {
+              "totalUnits": "          .0000",
+              "fundAllocation": "    .00",
+              "totalFundAmount": "      19146423.66",
+              "investmentFundCd": "       ",
+              "unitPrice": "      .0000",
+              "navDt": "20200305"
+            }
+          ]
+        }
+      ],
+      "hasPolicyAssessmentDetailsIn": [
+        {
+          "assessmentClassType": "UW"
+        }
+      ]
+    },
+    "entity": "AMFS",
+    "service": "getFundDetail",
+    "appID": "RLS"
+  }
+}
